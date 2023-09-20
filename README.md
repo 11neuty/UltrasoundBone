@@ -1,6 +1,6 @@
 # Ultrasound Densitometry
 
-Ultrasound Densitometry(![20230718_120059](https://github.com/11neuty/UltrasoundBone/assets/49444532/673c9d62-6c15-4c5f-9ac3-d363bd5896f9)
+Ultrasound Densitometry![20230718_120059](https://github.com/11neuty/UltrasoundBone/assets/49444532/673c9d62-6c15-4c5f-9ac3-d363bd5896f9)
 
 ## Deskripsi Proyek
 Proyek "Ultrasound Densitometry" adalah sebuah inisiatif untuk mengembangkan metode pengukuran kepadatan tulang yang aman dan non-ionisasi menggunakan spektroskopi ultrasonik dan machine learning.
